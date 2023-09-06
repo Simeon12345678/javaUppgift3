@@ -1,4 +1,4 @@
-public class app {
+public class uppgift_3a {
     public static void main(String[] args) {
         // 3a addition
         int value1 = 23;
